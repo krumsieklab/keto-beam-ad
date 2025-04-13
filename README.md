@@ -1,8 +1,8 @@
 <img src="keto.png" width="150" height="50"> 
 
-# A modified Mediterranean ketogenic diet mitigates modifiable risk factors of Alzheimer’s disease: a serum and CSF-based metabolic analysis
+# Serum and CSF metabolomics analysis shows Mediterranean Ketogenic Diet mitigates risk factors of Alzheimer’s disease
 
-This repository contains scripts for analysis and figure generation of the paper<br/> **Schweickart\*, Batra\* et. al.** A modified Mediterranean ketogenic diet mitigates modifiable risk factors of Alzheimer’s disease: a serum and CSF-based metabolic analysis (2023), *medRxiv*. [link]()
+This repository contains scripts for analysis and figure generation of the paper<br/> **Schweickart\*, Batra\* et. al.** Serum and CSF metabolomics analysis shows Mediterranean Ketogenic Diet mitigates risk factors of Alzheimer’s disease (2024), *npj Metabolic Health and Disease*. [link](https://www.nature.com/articles/s44324-024-00016-3)
 
 # Content
 | Script name | Description |
